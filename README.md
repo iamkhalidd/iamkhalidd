@@ -6,9 +6,9 @@
 
 ### About Me
 
-I work at the intersection of cybersecurity, full-stack development, and financial markets. I taught myself Linux, worked through Kali and Alpine, and built a working knowledge of AWS and Python automation alongside my formal work history. On the trading side, my finance background pulled me toward algorithmic systems, where I design and stress-test MT5 bots and treat risk management with the same discipline as code review.
+I work at the intersection of cybersecurity, full-stack software engineering, and financial systems. My technical foundation spans Linux administration (Kali, Alpine, Ubuntu), cloud infrastructure on AWS, and Python-based automation and tooling, built independently alongside my formal engineering career. On the financial systems side, I apply the same engineering discipline to algorithmic trading, designing and stress-testing MetaTrader 5 systems where risk management is treated with the same rigor as production code.
 
-Currently leading backend delivery on a telemedicine platform for the German market, across clinical workflow, platform API, and AI services.
+I currently lead backend delivery on a telemedicine platform serving the German market, with responsibility spanning the clinical workflow service, platform API, and AI services layer.
 
 <br>
 
@@ -34,30 +34,44 @@ AWS infrastructure, Docker, Firebase, Vercel deployments, Linux server administr
 
 <br>
 
-### Currently Focused On
-
-- Structured learning path in cybersecurity and Python, beginner to advanced
-- Penetration testing engagements sourced through Upwork
-- Deepening AWS cloud architecture, specifically EC2 and VM setup
-- Working toward OSCP certification
-
-<br>
-
 ### Tech Stack
 
+**Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+**Frontend & Backend**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+
+**Data & Infrastructure**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+**Security & Systems**
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
-![MetaTrader](https://img.shields.io/badge/MT5-Algorithmic%20Trading-000000?style=flat)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+
+**Trading & Quantitative**
+![MetaTrader 5](https://img.shields.io/badge/MetaTrader%205-000000?style=flat)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 <br>
-
 
 ### Connect
 
