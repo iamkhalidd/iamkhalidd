@@ -1,86 +1,18 @@
-<h1 align="center">Khalid Adebiyi</h1>
-<p align="center"><b>Backend lead on a healthcare platform · Security-minded engineering · Trading systems on the side</b></p>
-<p align="center">
-  <a href="https://khalidadebiyi.vercel.app/">Portfolio</a>
-  <!-- TODO: add LinkedIn and a contact email, e.g.  · <a href="https://linkedin.com/in/...">LinkedIn</a> · <a href="mailto:...">Email</a> -->
-</p>
+<h1>Hey! I'm Khalid Adebiyi 👋</h1>
 
-<br>
+I'm a full-stack developer. I build web and mobile applications end to end, from the user interface to the APIs, databases and infrastructure behind them.
 
-I lead backend delivery on a telemedicine platform serving the German market, owning the clinical workflow service, the platform API, and the AI services layer. I build with a security engineer's habits: threat-model first, least privilege by default, and logs you can actually investigate with. Outside that, I design and stress-test algorithmic trading systems on MetaTrader 5, treating risk management with the same rigor as production code.
+**Open to:** full-stack roles and freelance projects.
 
-**Open to:** senior backend / full-stack roles · security-focused engineering work · select freelance projects.
+## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://khalidadebiyi.vercel.app/)
 
-<br>
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-## Backend & Full-Stack
+# 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=iamkhalidd&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamkhalidd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Production systems in TypeScript, Node.js, and Python: APIs, service boundaries, data models, and the infrastructure they run on.
-
-- **Telemedicine platform (current role).** Backend lead for a regulated healthcare product in Germany. Clinical workflow service, platform API, AI services layer.
-<!-- TODO: one line of measurable outcome, e.g. "Cut p95 API latency from X to Y", "Shipped N services to production", "Led a team of N". -->
-<!-- TODO: 1–2 more projects, format: **Name** ([repo](link) · [live](link)): problem → what you built → outcome. Stack. -->
-
-## Security
-
-Penetration testing, vulnerability assessment, and forensic investigation, mostly with custom Python tooling. In practice this shapes how I design and review backend systems.
-
-<!-- TODO: proof is what makes this section credible. Add any of:
-- **Forensic toolkit** ([repo](link)): what it does, what it found.
-- **Write-ups**: link to blog posts / CTF write-ups.
-- **Profiles**: HackTheBox / TryHackMe rank, certifications (OSCP, Security+, etc.), CVEs, bug bounty acknowledgements.
--->
-
-## Trading Systems
-
-Algorithmic trading on MetaTrader 5 with Python for research and analysis. The focus is risk controls and stress testing, not just signals.
-
-<!-- TODO: link a repo or write-up showing methodology (backtest setup, walk-forward/out-of-sample testing, drawdown limits). Skip specific return claims. -->
-
-<br>
-
-## Work With Me
-
-I take on a limited number of freelance projects:
-
-- **Backend & APIs**: service design, Node.js/NestJS or Python/FastAPI, PostgreSQL, AWS
-- **Full-stack products**: SaaS platforms with auth, admin tooling, and dashboards (React / Next.js)
-- **Security reviews**: application security assessment and hardening of existing web apps
-
-<!-- TODO: add 1–2 short case studies (client type, problem, result) once you can share them. -->
-
-Get in touch via my [portfolio](https://khalidadebiyi.vercel.app/).
-
-<br>
-
-## Stack
-
-**Core**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-**Also**
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
-**Security**
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-
-**Trading**
-![MetaTrader 5](https://img.shields.io/badge/MetaTrader%205-000000?style=flat)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+---
+[![](https://visitcount.itsvg.in/api?id=iamkhalidd&icon=0&color=0)](https://visitcount.itsvg.in)
